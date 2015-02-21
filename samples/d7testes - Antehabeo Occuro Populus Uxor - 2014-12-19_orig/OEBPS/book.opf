@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:opf="http://www.idpf.org/2007/opf"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<dc:title>Antehabeo Occuro Populus Uxor</dc:title>
+		<dc:language>en</dc:language>
+		<dc:identifier id="BookId" opf:scheme="URI">http://localhost/d7testes/node/50</dc:identifier>
+		<dc:date opf:event="publication">2014-12-19T20:08:22.000000+00:00</dc:date>
+		<dc:publisher>d7testes</dc:publisher>
+		<dc:relation>http://localhost/d7testes</dc:relation>
+		<dc:source>http://localhost/d7testes/node/50</dc:source>
+		<meta name="generator" content="EPub (Version 3.2) by A. Grandt, http://www.phpclasses.org/package/6115" />
+	</metadata>
+
+	<manifest>
+		<item id="ncx" href="book.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="chapter1" href="epub.html" media-type="application/xhtml+xml" />
+	</manifest>
+
+	<spine toc="ncx">
+		<itemref idref="chapter1" />
+	</spine>
+
+	<guide>
+		<reference type="text" title="Chapter" href="epub.html" />
+	</guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/61</dc:identifier>
+    <dc:creator opf:file-as="Engels, Friedrich">Friedrich Engels</dc:creator>
+    <dc:creator opf:file-as="Marx, Karl">Karl Marx</dc:creator>
+    <dc:title>The Communist Manifesto</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Communism</dc:subject>
+    <dc:subject>Socialism</dc:subject>
+    <dc:date opf:event="publication">2005-01-25</dc:date>
+    <dc:date opf:event="conversion">2013-03-13T09:28:45.123352+00:00</dc:date>
+    <dc:source>http://www.gutenberg.orgfiles/61/61.txt</dc:source>
+  </metadata>
+  <manifest>
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <!--Chunk: size=83309 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@61@61-0.txt.html" id="id00000" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=27038-->
+    <item href="@public@vhost@g@gutenberg@html@files@61@61-1.txt.html" id="id00212" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id00000" linear="yes"/>
+    <itemref idref="id00212" linear="yes"/>
+  </spine>
+</package>

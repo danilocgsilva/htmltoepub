@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/61" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="EpubMaker 0.3.20a6 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Communist Manifesto</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>MANIFESTO OF THE COMMUNIST PARTY</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@61@61-0.txt.html#id00008"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>I. BOURGEOIS AND PROLETARIANS</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@61@61-0.txt.html#id00016"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>II. PROLETARIANS AND COMMUNISTS</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@61@61-0.txt.html#id00067"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>III. SOCIALIST AND COMMUNIST LITERATURE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@61@61-0.txt.html#id00151"/>
+        <navPoint id="np-5" playOrder="5">
+          <navLabel>
+            <text>1. REACTIONARY SOCIALISM</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@61@61-0.txt.html#id00152"/>
+        </navPoint>
+        <navPoint id="np-6" playOrder="6">
+          <navLabel>
+            <text>2. CONSERVATIVE, OR BOURGEOIS, SOCIALISM</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@61@61-0.txt.html#id00190"/>
+        </navPoint>
+        <navPoint id="np-7" playOrder="7">
+          <navLabel>
+            <text>3. CRITICAL-UTOPIAN SOCIALISM AND COMMUNISM</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@61@61-0.txt.html#id00199"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>IV. POSITION OF THE COMMUNISTS IN RELATION TO THE VARIOUS EXISTING OPPOSITION PARTIES</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@61@61-1.txt.html#id00214"/>
+        <navPoint id="np-9" playOrder="9">
+          <navLabel>
+            <text>WORKING MEN OF ALL COUNTRIES, UNITE!</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@61@61-1.txt.html#id00226"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>*** START: FULL LICENSE ***</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@61@61-1.txt.html#id00233"/>
+        <navPoint id="np-11" playOrder="11">
+          <navLabel>
+            <text>Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic works</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@61@61-1.txt.html#id00236"/>
+        </navPoint>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>Section 2. Information about the Mission of Project Gutenberg-tm</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@61@61-1.txt.html#id00263"/>
+        </navPoint>
+        <navPoint id="np-13" playOrder="13">
+          <navLabel>
+            <text>Section 3. Information about the Project Gutenberg Literary Archive Foundation</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@61@61-1.txt.html#id00266"/>
+        </navPoint>
+        <navPoint id="np-14" playOrder="14">
+          <navLabel>
+            <text>Section 5. General Information About Project Gutenberg-tm electronic works.</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@61@61-1.txt.html#id00276"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
