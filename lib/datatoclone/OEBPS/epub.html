@@ -1,0 +1,983 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <base href='http://localhost/d7testes/node/50' />
+    <title>Antehabeo Occuro Populus Uxor</title>
+    <script type="text/javascript" src="http://localhost/d7testes/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://localhost/d7testes/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://localhost/d7testes/misc/drupal.js?ngug83"></script>
+<script type="text/javascript" src="http://localhost/d7testes/sites/all/modules/devel/devel_krumo_path.js?ngug83"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/d7testes\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"gUaY7V3QXWQhnQ0AdaPdCD5dw98Q2R7Vue6EdehVgaU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/devel\/devel_krumo_path.js":1}}});
+//--><!]]>
+</script>
+        <meta name="robots" content=noindex, nofollow />          <link rel='shortcut icon' href='http://localhost/d7testes/misc/favicon.ico' type='image/x-icon' />
+        <style type='text/css' media='all'>
+/**
+ * @file
+ * Generic theme-independent base styles.
+ */
+
+/**
+ * Autocomplete.
+ *
+ * @see autocomplete.js
+ */
+/* Suggestion list */
+#autocomplete {
+  border: 1px solid;
+  overflow: hidden;
+  position: absolute;
+  z-index: 100;
+}
+#autocomplete ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+#autocomplete li {
+  background: #fff;
+  color: #000;
+  cursor: default;
+  white-space: pre;
+  zoom: 1; /* IE7 */
+}
+/* Animated throbber */
+html.js input.form-autocomplete {
+  background-image: url(../../misc/throbber-inactive.png);
+  background-position: 100% center; /* LTR */
+  background-repeat: no-repeat;
+}
+html.js input.throbbing {
+  background-image: url(../../misc/throbber-active.gif);
+  background-position: 100% center; /* LTR */
+}
+
+/**
+ * Collapsible fieldsets.
+ *
+ * @see collapse.js
+ */
+html.js fieldset.collapsed {
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  height: 1em;
+}
+html.js fieldset.collapsed .fieldset-wrapper {
+  display: none;
+}
+fieldset.collapsible {
+  position: relative;
+}
+fieldset.collapsible .fieldset-legend {
+  display: block;
+}
+
+/**
+ * Resizable textareas.
+ *
+ * @see textarea.js
+ */
+.form-textarea-wrapper textarea {
+  display: block;
+  margin: 0;
+  width: 100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.resizable-textarea .grippie {
+  background: #eee url(../../misc/grippie.png) no-repeat center 2px;
+  border: 1px solid #ddd;
+  border-top-width: 0;
+  cursor: s-resize;
+  height: 9px;
+  overflow: hidden;
+}
+
+/**
+ * TableDrag behavior.
+ *
+ * @see tabledrag.js
+ */
+body.drag {
+  cursor: move;
+}
+.draggable a.tabledrag-handle {
+  cursor: move;
+  float: left; /* LTR */
+  height: 1.7em;
+  margin-left: -1em; /* LTR */
+  overflow: hidden;
+  text-decoration: none;
+}
+a.tabledrag-handle:hover {
+  text-decoration: none;
+}
+a.tabledrag-handle .handle {
+  background: url(../../misc/draggable.png) no-repeat 6px 9px;
+  height: 13px;
+  margin: -0.4em 0.5em; /* LTR */
+  padding: 0.42em 0.5em; /* LTR */
+  width: 13px;
+}
+a.tabledrag-handle-hover .handle {
+  background-position: 6px -11px;
+}
+div.indentation {
+  float: left; /* LTR */
+  height: 1.7em;
+  margin: -0.4em 0.2em -0.4em -0.4em; /* LTR */
+  padding: 0.42em 0 0.42em 0.6em; /* LTR */
+  width: 20px;
+}
+div.tree-child {
+  background: url(../../misc/tree.png) no-repeat 11px center; /* LTR */
+}
+div.tree-child-last {
+  background: url(../../misc/tree-bottom.png) no-repeat 11px center; /* LTR */
+}
+div.tree-child-horizontal {
+  background: url(../../misc/tree.png) no-repeat -11px center;
+}
+.tabledrag-toggle-weight-wrapper {
+  text-align: right; /* LTR */
+}
+
+/**
+ * TableHeader behavior.
+ *
+ * @see tableheader.js
+ */
+table.sticky-header {
+  background-color: #fff;
+  margin-top: 0;
+}
+
+/**
+ * Progress behavior.
+ *
+ * @see progress.js
+ */
+/* Bar */
+.progress .bar {
+  background-color: #fff;
+  border: 1px solid;
+}
+.progress .filled {
+  background-color: #000;
+  height: 1.5em;
+  width: 5px;
+}
+.progress .percentage {
+  float: right; /* LTR */
+}
+/* Throbber */
+.ajax-progress {
+  display: inline-block;
+}
+.ajax-progress .throbber {
+  background: transparent url(../../misc/throbber-active.gif) no-repeat 0px center;
+  float: left; /* LTR */
+  height: 15px;
+  margin: 2px;
+  width: 15px;
+}
+.ajax-progress .message {
+  padding-left: 20px;
+}
+tr .ajax-progress .throbber {
+  margin: 0 2px;
+}
+.ajax-progress-bar {
+  width: 16em;
+}
+
+/**
+ * Inline items.
+ */
+.container-inline div,
+.container-inline label {
+  display: inline;
+}
+/* Fieldset contents always need to be rendered as block. */
+.container-inline .fieldset-wrapper {
+  display: block;
+}
+
+/**
+ * Prevent text wrapping.
+ */
+.nowrap {
+  white-space: nowrap;
+}
+
+/**
+ * For anything you want to hide on page load when JS is enabled, so
+ * that you can use the JS to control visibility and avoid flicker.
+ */
+html.js .js-hide {
+  display: none;
+}
+
+/**
+ * Hide elements from all users.
+ *
+ * Used for elements which should not be immediately displayed to any user. An
+ * example would be a collapsible fieldset that will be expanded with a click
+ * from a user. The effect of this class can be toggled with the jQuery show()
+ * and hide() functions.
+ */
+.element-hidden {
+  display: none;
+}
+
+/**
+ * Hide elements visually, but keep them available for screen-readers.
+ *
+ * Used for information required for screen-reader users to understand and use
+ * the site where visual display is undesirable. Information provided in this
+ * manner should be kept concise, to avoid unnecessary burden on the user.
+ * "!important" is used to prevent unintentional overrides.
+ */
+.element-invisible {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  overflow: hidden;
+  height: 1px;
+}
+
+/**
+ * The .element-focusable class extends the .element-invisible class to allow
+ * the element to be focusable when navigated to via the keyboard.
+ */
+.element-invisible.element-focusable:active,
+.element-invisible.element-focusable:focus {
+  position: static !important;
+  clip: auto;
+  overflow: visible;
+  height: auto;
+}
+
+/**
+ * Markup free clearing.
+ *
+ * @see http://perishablepress.com/press/2009/12/06/new-clearfix-hack
+ */
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+/* IE6 */
+* html .clearfix {
+  height: 1%;
+}
+/* IE7 */
+*:first-child + html .clearfix {
+  min-height: 1%;
+}
+
+
+/**
+ * @file
+ * Styles for menus and navigation markup.
+ */
+
+/**
+ * Markup generated by theme_menu_tree().
+ */
+ul.menu {
+  border: none;
+  list-style: none;
+  text-align: left; /* LTR */
+}
+ul.menu li {
+  margin: 0 0 0 0.5em; /* LTR */
+}
+ul li.expanded {
+  list-style-image: url(../../misc/menu-expanded.png);
+  list-style-type: circle;
+}
+ul li.collapsed {
+  list-style-image: url(../../misc/menu-collapsed.png); /* LTR */
+  list-style-type: disc;
+}
+ul li.leaf {
+  list-style-image: url(../../misc/menu-leaf.png);
+  list-style-type: square;
+}
+li.expanded,
+li.collapsed,
+li.leaf {
+  padding: 0.2em 0.5em 0 0; /* LTR */
+  margin: 0;
+}
+li a.active {
+  color: #000;
+}
+td.menu-disabled {
+  background: #ccc;
+}
+
+/**
+ * Markup generated by theme_links().
+ */
+ul.inline,
+ul.links.inline {
+  display: inline;
+  padding-left: 0;
+}
+ul.inline li {
+  display: inline;
+  list-style-type: none;
+  padding: 0 0.5em;
+}
+
+/**
+ * Markup generated by theme_breadcrumb().
+ */
+.breadcrumb {
+  padding-bottom: 0.5em;
+}
+
+/**
+ * Markup generated by theme_menu_local_tasks().
+ */
+ul.primary {
+  border-bottom: 1px solid #bbb;
+  border-collapse: collapse;
+  height: auto;
+  line-height: normal;
+  list-style: none;
+  margin: 5px;
+  padding: 0 0 0 1em; /* LTR */
+  white-space: nowrap;
+}
+ul.primary li {
+  display: inline;
+}
+ul.primary li a {
+  background-color: #ddd;
+  border-color: #bbb;
+  border-style: solid solid none solid;
+  border-width: 1px;
+  height: auto;
+  margin-right: 0.5em; /* LTR */
+  padding: 0 1em;
+  text-decoration: none;
+}
+ul.primary li.active a {
+  background-color: #fff;
+  border: 1px solid #bbb;
+  border-bottom: 1px solid #fff;
+}
+ul.primary li a:hover {
+  background-color: #eee;
+  border-color: #ccc;
+  border-bottom-color: #eee;
+}
+ul.secondary {
+  border-bottom: 1px solid #bbb;
+  padding: 0.5em 1em;
+  margin: 5px;
+}
+ul.secondary li {
+  border-right: 1px solid #ccc; /* LTR */
+  display: inline;
+  padding: 0 1em;
+}
+ul.secondary a {
+  padding: 0;
+  text-decoration: none;
+}
+ul.secondary a.active {
+  border-bottom: 4px solid #999;
+}
+
+/**
+ * @file
+ * Styles for system messages.
+ */
+
+div.messages {
+  background-position: 8px 8px; /* LTR */
+  background-repeat: no-repeat;
+  border: 1px solid;
+  margin: 6px 0;
+  padding: 10px 10px 10px 50px; /* LTR */
+}
+
+div.status {
+  background-image: url(../../misc/message-24-ok.png);
+  border-color: #be7;
+}
+div.status,
+.ok {
+  color: #234600;
+}
+div.status,
+table tr.ok {
+  background-color: #f8fff0;
+}
+
+div.warning {
+  background-image: url(../../misc/message-24-warning.png);
+  border-color: #ed5;
+}
+div.warning,
+.warning {
+  color: #840;
+}
+div.warning,
+table tr.warning {
+  background-color: #fffce5;
+}
+
+div.error {
+  background-image: url(../../misc/message-24-error.png);
+  border-color: #ed541d;
+}
+div.error,
+.error {
+  color: #8c2e0b;
+}
+div.error,
+table tr.error {
+  background-color: #fef5f1;
+}
+div.error p.error {
+  color: #333;
+}
+
+div.messages ul {
+  margin: 0 0 0 1em; /* LTR */
+  padding: 0;
+}
+div.messages ul li {
+  list-style-image: none;
+}
+
+/**
+ * @file
+ * Basic styling for common markup.
+ */
+
+/**
+ * HTML elements.
+ */
+fieldset {
+  margin-bottom: 1em;
+  padding: 0.5em;
+}
+form {
+  margin: 0;
+  padding: 0;
+}
+hr {
+  border: 1px solid gray;
+  height: 1px;
+}
+img {
+  border: 0;
+}
+table {
+  border-collapse: collapse;
+}
+th {
+  border-bottom: 3px solid #ccc;
+  padding-right: 1em; /* LTR */
+  text-align: left; /* LTR */
+}
+tbody {
+  border-top: 1px solid #ccc;
+}
+tr.even,
+tr.odd {
+  background-color: #eee;
+  border-bottom: 1px solid #ccc;
+  padding: 0.1em 0.6em;
+}
+
+/**
+ * Markup generated by theme_tablesort_indicator().
+ */
+th.active img {
+  display: inline;
+}
+td.active {
+  background-color: #ddd;
+}
+
+/**
+ * Markup generated by theme_item_list().
+ */
+.item-list .title {
+  font-weight: bold;
+}
+.item-list ul {
+  margin: 0 0 0.75em 0;
+  padding: 0;
+}
+.item-list ul li {
+  margin: 0 0 0.25em 1.5em; /* LTR */
+  padding: 0;
+}
+
+/**
+ * Markup generated by Form API.
+ */
+.form-item,
+.form-actions {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+tr.odd .form-item,
+tr.even .form-item {
+  margin-top: 0;
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+.form-item .description {
+  font-size: 0.85em;
+}
+label {
+  display: block;
+  font-weight: bold;
+}
+label.option {
+  display: inline;
+  font-weight: normal;
+}
+.form-checkboxes .form-item,
+.form-radios .form-item {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+.form-type-radio .description,
+.form-type-checkbox .description {
+  margin-left: 2.4em;
+}
+input.form-checkbox,
+input.form-radio {
+  vertical-align: middle;
+}
+.marker,
+.form-required {
+  color: #f00;
+}
+.form-item input.error,
+.form-item textarea.error,
+.form-item select.error {
+  border: 2px solid red;
+}
+
+/**
+ * Inline items.
+ */
+.container-inline .form-actions,
+.container-inline.form-actions {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/**
+ * Markup generated by theme_more_link().
+ */
+.more-link {
+  text-align: right; /* LTR */
+}
+
+/**
+ * Markup generated by theme_more_help_link().
+ */
+.more-help-link {
+  text-align: right; /* LTR */
+}
+.more-help-link a {
+  background: url(../../misc/help.png) 0 50% no-repeat; /* LTR */
+  padding: 1px 0 1px 20px; /* LTR */
+}
+
+/**
+ * Markup generated by theme_pager().
+ */
+.item-list .pager {
+  clear: both;
+  text-align: center;
+}
+.item-list .pager li {
+  background-image: none;
+  display: inline;
+  list-style-type: none;
+  padding: 0.5em;
+}
+.pager-current {
+  font-weight: bold;
+}
+
+/**
+ * Autocomplete.
+ *
+ * @see autocomplete.js
+ */
+/* Suggestion list */
+#autocomplete li.selected {
+  background: #0072b9;
+  color: #fff;
+}
+
+/**
+ * Collapsible fieldsets.
+ *
+ * @see collapse.js
+ */
+html.js fieldset.collapsible .fieldset-legend {
+  background: url(../../misc/menu-expanded.png) 5px 65% no-repeat; /* LTR */
+  padding-left: 15px; /* LTR */
+}
+html.js fieldset.collapsed .fieldset-legend {
+  background-image: url(../../misc/menu-collapsed.png); /* LTR */
+  background-position: 5px 50%; /* LTR */
+}
+.fieldset-legend span.summary {
+  color: #999;
+  font-size: 0.9em;
+  margin-left: 0.5em;
+}
+
+/**
+ * TableDrag behavior.
+ *
+ * @see tabledrag.js
+ */
+tr.drag {
+  background-color: #fffff0;
+}
+tr.drag-previous {
+  background-color: #ffd;
+}
+.tabledrag-toggle-weight {
+  font-size: 0.9em;
+}
+body div.tabledrag-changed-warning {
+  margin-bottom: 0.5em;
+}
+
+/**
+ * TableSelect behavior.
+ *
+ * @see tableselect.js
+*/
+tr.selected td {
+  background: #ffc;
+}
+td.checkbox,
+th.checkbox {
+  text-align: center;
+}
+
+/**
+ * Progress bar.
+ *
+ * @see progress.js
+ */
+.progress {
+  font-weight: bold;
+}
+.progress .bar {
+  background: #ccc;
+  border-color: #666;
+  margin: 0 0.2em;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+.progress .filled {
+  background: #0072b9 url(../../misc/progress.gif);
+}
+
+#comments {
+  margin-top: 15px;
+}
+.indented {
+  margin-left: 25px; /* LTR */
+}
+.comment-unpublished {
+  background-color: #fff4f4;
+}
+.comment-preview {
+  background-color: #ffffea;
+}
+
+/* Field display */
+.field .field-label {
+  font-weight: bold;
+}
+.field-label-inline .field-label,
+.field-label-inline .field-items {
+  float:left; /*LTR*/
+}
+
+/* Form display */
+form .field-multiple-table {
+  margin: 0;
+}
+form .field-multiple-table th.field-label {
+  padding-left: 0; /*LTR*/
+}
+form .field-multiple-table td.field-multiple-drag {
+  width: 30px;
+  padding-right: 0; /*LTR*/
+}
+form .field-multiple-table td.field-multiple-drag a.tabledrag-handle {
+  padding-right: .5em; /*LTR*/
+}
+
+form .field-add-more-submit {
+  margin: .5em 0 0;
+}
+
+.node-unpublished {
+  background-color: #fff4f4;
+}
+.preview .node {
+  background-color: #ffffea;
+}
+td.revision-current {
+  background: #ffc;
+}
+
+.search-form {
+  margin-bottom: 1em;
+}
+.search-form input {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.search-results {
+  list-style: none;
+}
+.search-results p {
+  margin-top: 0;
+}
+.search-results .title {
+  font-size: 1.2em;
+}
+.search-results li {
+  margin-bottom: 1em;
+}
+.search-results .search-snippet-info {
+  padding-left: 1em; /* LTR */
+}
+.search-results .search-info {
+  font-size: 0.85em;
+}
+.search-advanced .criterion {
+  float: left; /* LTR */
+  margin-right: 2em; /* LTR */
+}
+.search-advanced .action {
+  float: left; /* LTR */
+  clear: left; /* LTR */
+}
+
+#permissions td.module {
+  font-weight: bold;
+}
+#permissions td.permission {
+  padding-left: 1.5em; /* LTR */
+}
+#permissions tr.odd .form-item,
+#permissions tr.even .form-item {
+  white-space: normal;
+}
+#user-admin-settings fieldset .fieldset-description {
+  font-size: 0.85em;
+  padding-bottom: .5em;
+}
+
+/**
+ * Override default textfield float to put the "Add role" button next to
+ * the input textfield.
+ */
+#user-admin-roles td.edit-name {
+  clear: both;
+}
+#user-admin-roles .form-item-name {
+  float: left; /* LTR */
+  margin-right: 1em; /* LTR */
+}
+
+/**
+ * Password strength indicator.
+ */
+.password-strength {
+  width: 17em;
+  float: right;  /* LTR */
+  margin-top: 1.4em;
+}
+.password-strength-title {
+  display: inline;
+}
+.password-strength-text {
+  float: right; /* LTR */
+  font-weight: bold;
+}
+.password-indicator {
+  background-color: #C4C4C4;
+  height: 0.3em;
+  width: 100%;
+}
+.password-indicator div {
+  height: 100%;
+  width: 0%;
+  background-color: #47C965;
+}
+input.password-confirm,
+input.password-field {
+  width: 16em;
+  margin-bottom: 0.4em;
+}
+div.password-confirm {
+  float: right;  /* LTR */
+  margin-top: 1.5em;
+  visibility: hidden;
+  width: 17em;
+}
+div.form-item div.password-suggestions {
+  padding: 0.2em 0.5em;
+  margin: 0.7em 0;
+  width: 38.5em;
+  border: 1px solid #B4B4B4;
+}
+div.password-suggestions ul {
+  margin-bottom: 0;
+}
+.confirm-parent,
+.password-parent {
+  clear: left; /* LTR */
+  margin: 0;
+  width: 36.3em;
+}
+
+/* Generated by user.module but used by profile.module: */
+.profile {
+  clear: both;
+  margin: 1em 0;
+}
+.profile .user-picture {
+  float: right; /* LTR */
+  margin: 0 1em 1em 0; /* LTR */
+}
+.profile h3 {
+  border-bottom: 1px solid #ccc;
+}
+.profile dl {
+  margin: 0 0 1.5em 0;
+}
+.profile dt {
+  margin: 0 0 0.2em 0;
+  font-weight: bold;
+}
+.profile dd {
+  margin: 0 0 1em 0;
+}
+body {
+  margin: 1em;
+  background-color: #fff;
+  font-family: sans-serif;
+}
+th {
+  text-align: left; /* LTR */
+  color: #006;
+  border-bottom: 1px solid #ccc;
+}
+tr.odd {background-color: #ddd;}
+tr.even {background-color: #fff;}
+td {padding: 5px;}
+#menu {visibility: hidden;}
+#main {margin: 1em;}
+a:link {color: #000;}
+a:visited {color: #000;}
+a:hover {color: #00f;}
+a:link img, a:visited img {border: 0;}
+.print-footnote {font-size: xx-small;}
+img.print-logo {border: 0;}
+.print-site_name {}
+.print-breadcrumb {font-size: x-small;}
+.print-title {}
+.print-submitted {font-size: small;}
+.print-created {font-size: small;}
+.print-taxonomy {text-align: right;}
+.print-taxonomy li {display: inline;}
+.print-content {}
+.print-hr {
+  border: 0;
+  height: 1px;
+  width: 100%;
+  color: #9E9E9E;
+  background-color: #9E9E9E;
+}
+.print-message {
+  border: medium dotted blue;
+  padding: 1em;
+}
+.print-source_url {font-size: small;}
+.print-links {font-size: small;}
+.print-footer {text-align: center;}
+</style>
+  </head>
+  <body>
+              <div class="print-logo"><img class="print-logo" id="logo" typeof="foaf:Image" src="http://localhost/d7testes/themes/bartik/logo.png" alt="d7testes" /></div>
+        <div class="print-site_name">Published on <em class="placeholder">d7testes</em> (<a href="http://localhost/d7testes">http://localhost/d7testes</a>)</div>
+    <p />
+    <div class="print-breadcrumb"><a href="/d7testes/">Home</a> &gt; Antehabeo Occuro Populus Uxor</div>
+    <hr class="print-hr" />
+        <div class="print-content"><div id="node-50" class="node node-article node-promoted clearfix" about="/d7testes/node/50" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      Antehabeo Occuro Populus Uxor
+    </h2>
+    <span property="dc:title" content="Antehabeo Occuro Populus Uxor" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2014-12-19T13:59:47-02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Fri, 12/19/2014 - 13:59</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://localhost/d7testes/sites/default/files/styles/large/public/field/image/ima550B.tmp.jpg?itok=CfYsb6dp"><img typeof="foaf:Image" src="http://localhost/d7testes/sites/default/files/styles/large/public/field/image/ima550B.tmp.jpg?itok=CfYsb6dp" width="480" height="302" alt="Abbas abluo aptent commodo jus plaga usitas utrum." title="Autem consequat eu facilisis turpis vel verto ymo." /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Antehabeo esse exputo mauris praesent quae refero ullamcorper. Consectetuer erat facilisis feugiat interdico nobis nulla proprius sino sit. Commoveo natu nibh typicus ulciscor. Nulla quadrum tum uxor. Dolore haero loquor quidem saluto. Adipiscing causa diam dolor ex fere lobortis saepius scisco tum. Abigo causa dignissim ibidem meus quis turpis. Mos oppeto pertineo qui sudo suscipere validus. Abigo ex refoveo. Eligo exputo illum plaga suscipere usitas utinam.</p>
+<p>Antehabeo ea nostrud qui tego. Augue dolore ex. Augue bene dolus eligo eu exputo laoreet modo similis torqueo. At dolus iriure letalis os pertineo. Plaga quia similis turpis valde. Acsi augue dignissim jugis nulla pecus qui quidne tation valde. Acsi autem brevitas eros nibh nobis premo sit sudo vel. Camur dolus esse mauris scisco sudo. Bene cui euismod ludus magna olim secundum vulputate.</p>
+<p>Consequat esse jugis occuro. Augue nibh ratis. Abico enim exputo imputo jus occuro paulatim plaga verto virtus. Adipiscing amet erat iusto quadrum quae rusticus tincidunt utrum velit. Abdo abico appellatio bene genitus jus ludus si venio. Gilvus letalis melior pagus patria suscipere vulputate. Comis euismod obruo sino. Blandit jumentum jus luptatum molior saluto singularis tincidunt utrum.</p>
+<p>Dignissim exerci iriure. Causa consectetuer eligo esse ludus nisl pertineo scisco. Amet nunc obruo paratus patria suscipit ymo. Ad ludus paratus suscipit torqueo turpis. Acsi adipiscing amet in natu pecus roto sed ymo.</p>
+<p>Et letalis pecus pertineo roto sudo tation. Cogo conventio esse gilvus ideo immitto lenis patria premo vindico.</p>
+<p>Gilvus hos in metuo. Amet erat paulatim sagaciter tincidunt turpis. Facilisi incassum lobortis nutus paratus suscipit. Dignissim jumentum pertineo tation. Adipiscing elit eros. Mos neo os. Appellatio ex hendrerit interdico nunc pneum zelus. Consectetuer erat exerci facilisi. Aliquam erat hos in laoreet loquor sit voco wisi. Decet jumentum pagus tincidunt uxor. Abigo ad brevitas eligo gemino iriure ullamcorper ut.</p>
+<p>Eros eum persto sit. Autem ea enim jumentum luctus pertineo praemitto quibus singularis wisi. At iaceo ideo jus ludus sagaciter sed torqueo vindico. Cui nulla sino tamen vereor. Defui incassum metuo pecus quidne ratis uxor.</p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+</div>
+    <div class="print-footer">
+<div id="block-system-powered-by" class="block block-system contextual-links-region">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+</div>
+    <hr class="print-hr" />
+          <div class="print-source_url">
+        <strong>Source URL:</strong> http://localhost/d7testes/node/50      </div>
+        <div class="print-links"></div>
+      </body>
+</html>
