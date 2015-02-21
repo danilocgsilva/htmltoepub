@@ -12,4 +12,8 @@ $unique_identifier = "BookId";
 
 // metadata
 
+$title = "Só para testar o título";
 
+// language
+
+$language = "pt_BR";
