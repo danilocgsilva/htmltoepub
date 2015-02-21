@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="pt">
+  <head>
+    <meta content="a0be3268-8fb1-43b1-84b8-b1ed477feb4c" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (0.7.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>CAPITAL Vol. I</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="1721fffd-7ce9-4977-8fd7-a771cebeb2a7" playOrder="1">
+      <navLabel>
+        <text>Capital A Critique of Political Economy</text>
+      </navLabel>
+      <content src="OPS/index.htm#calibre_toc_1"/>
+      <navPoint id="8a4ab1be-b496-4bcf-ba2a-3cb8eff11ba7" playOrder="2">
+        <navLabel>
+          <text>Table of Contents</text>
+        </navLabel>
+        <content src="OPS/index.htm#calibre_toc_2"/>
+      </navPoint>
+      <navPoint id="4391a4c8-ed30-4111-9709-55f0f1d17cb9" playOrder="3">
+        <navLabel>
+          <text>D E D I C A T E D</text>
+        </navLabel>
+        <content src="OPS/dedicate.htm#calibre_toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="8f61bab9-b94f-4a3a-ab4a-79618a425c0d" playOrder="4">
+      <navLabel>
+        <text>Prefaces and Afterwords</text>
+      </navLabel>
+      <content src="OPS/p1.htm"/>
+      <navPoint id="b8ad7086-943f-47e3-bd9d-1e6025d934b5" playOrder="5">
+        <navLabel>
+          <text>1867Preface to theFirst German Edition</text>
+        </navLabel>
+        <content src="OPS/p1.htm#calibre_toc_5"/>
+      </navPoint>
+      <navPoint id="b12907e5-548c-411a-9a46-82d1eecedd66" playOrder="6">
+        <navLabel>
+          <text>1872PREFACE TO THE FRENCH EDITION</text>
+        </navLabel>
+        <content src="OPS/p2.htm"/>
+      </navPoint>
+      <navPoint id="9bdf17a6-6a8f-4fc1-99f0-0419a0a95ea5" playOrder="7">
+        <navLabel>
+          <text>1873Afterword to the Second German Edition</text>
+        </navLabel>
+        <content src="OPS/p3.htm"/>
+        <navPoint id="d79d7c9c-e8d7-4281-9838-66fd0cc28722" playOrder="8">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/p3.htm#calibre_toc_8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="f6b3852f-a6cf-4e6b-8f33-87941665bb34" playOrder="9">
+        <navLabel>
+          <text>1875AFTERWARD TO THE FRENCH EDITION</text>
+        </navLabel>
+        <content src="OPS/p4.htm"/>
+      </navPoint>
+      <navPoint id="b217844f-444b-4653-94dc-0fc10d6219f9" playOrder="10">
+        <navLabel>
+          <text>1883PREFACE TO THE THIRD GERMAN EDITION</text>
+        </navLabel>
+        <content src="OPS/p5.htm"/>
+      </navPoint>
+      <navPoint id="55cb1298-5779-478f-8ba3-a34bf6c041a6" playOrder="11">
+        <navLabel>
+          <text>1886PREFACE TO THE ENGLISH EDITION</text>
+        </navLabel>
+        <content src="OPS/p6.htm"/>
+        <navPoint id="a7686d17-4d77-4dbb-80c7-477ec34085ea" playOrder="12">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/p6.htm#calibre_toc_12"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="4c22c04f-9d40-4197-aeb5-741101a54d74" playOrder="13">
+        <navLabel>
+          <text>1890PREFACE TO THE FOURTH GERMAN EDITION</text>
+        </navLabel>
+        <content src="OPS/p7.htm"/>
+        <navPoint id="dd507240-be95-4b77-a9a1-3b3cbe9474f5" playOrder="14">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/p7.htm#calibre_toc_14"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="36ca5612-a932-4f8e-bf97-a814da0fa329" playOrder="15">
+      <navLabel>
+        <text>Part I: Commodities and Money</text>
+      </navLabel>
+      <content src="OPS/ch01.htm"/>
+      <navPoint id="691f3d3b-269a-4e7e-afea-9e310e639db0" playOrder="16">
+        <navLabel>
+          <text>Chapter One: Commodities</text>
+        </navLabel>
+        <content src="OPS/ch01.htm#calibre_toc_16"/>
+        <navPoint id="3effd904-6b10-4dfd-b920-8ffaae545ddc" playOrder="17">
+          <navLabel>
+            <text>SECTION 1 - THE TWO FACTORS OF A COMMODITY: USE-VALUE AND VALUE (THE SUBSTANCE OF VALUE AND THE MAGNITUDE OF VALUE)</text>
+          </navLabel>
+          <content src="OPS/ch01.htm#calibre_toc_17"/>
+        </navPoint>
+        <navPoint id="a11d44dd-b194-45c2-83dd-34a841eb2a39" playOrder="18">
+          <navLabel>
+            <text>SECTION 2 - THE TWOFOLD CHARACTER OF THE LABOUR EMBODIED IN COMMODITIES</text>
+          </navLabel>
+          <content src="OPS/ch01.htm#calibre_toc_18"/>
+        </navPoint>
+        <navPoint id="3ae514f9-87af-4a51-a65f-7b251085e568" playOrder="19">
+          <navLabel>
+            <text>SECTION 3 - THE FORM OF VALUE OR EXCHANGE VALUE</text>
+          </navLabel>
+          <content src="OPS/ch01.htm#calibre_toc_19"/>
+        </navPoint>
+        <navPoint id="ac3a6953-6f2c-40bb-92cf-324e0b3fb2af" playOrder="20">
+          <navLabel>
+            <text>SECTION 4 - THE FETISHISM OF COMMODITIES AND THE SECRET THEREOF</text>
+          </navLabel>
+          <content src="OPS/ch01.htm#calibre_toc_20"/>
+        </navPoint>
+        <navPoint id="dcbd7b50-b1b8-43e5-91d1-3e66211a275c" playOrder="21">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch01.htm#calibre_toc_21"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="f2e37e0c-c48c-4369-b857-540756b1872d" playOrder="22">
+        <navLabel>
+          <text>Chapter Two: Exchange</text>
+        </navLabel>
+        <content src="OPS/ch02.htm"/>
+        <navPoint id="1e1b77f0-24f9-4078-98bb-41eae3d26d6a" playOrder="23">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch02.htm#calibre_toc_23"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="a29f5295-ecd6-407a-bab8-ad18b07eca4b" playOrder="24">
+        <navLabel>
+          <text>Chapter Three: Money, Or the Circulation of Commodities</text>
+        </navLabel>
+        <content src="OPS/ch03.htm"/>
+        <navPoint id="0f3b9aae-3071-43de-bb1e-d0fac499356a" playOrder="25">
+          <navLabel>
+            <text>SECTION 1 - THE MEASURE OF VALUES</text>
+          </navLabel>
+          <content src="OPS/ch03.htm#calibre_toc_25"/>
+        </navPoint>
+        <navPoint id="924bb714-6ee4-4118-8dfc-a32d6429b2f6" playOrder="26">
+          <navLabel>
+            <text>SECTION 2 -THE MEDIUM OF CIRCULATION</text>
+          </navLabel>
+          <content src="OPS/ch03.htm#calibre_toc_26"/>
+        </navPoint>
+        <navPoint id="ba6be165-8ef7-446f-9098-e0209b56633c" playOrder="27">
+          <navLabel>
+            <text>SECTION 3 - MONEY</text>
+          </navLabel>
+          <content src="OPS/ch03.htm#calibre_toc_27"/>
+        </navPoint>
+        <navPoint id="de884bf4-bf3b-42d0-8b4e-cf7cd23d6019" playOrder="28">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch03.htm#calibre_toc_28"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="b965afcd-0c35-49de-9b29-b3e8a090f4e9" playOrder="29">
+      <navLabel>
+        <text>Part II: The Transformation of Money into Capital</text>
+      </navLabel>
+      <content src="OPS/ch04.htm"/>
+      <navPoint id="2e3c2cd0-ec0e-4876-9802-626aa531230d" playOrder="30">
+        <navLabel>
+          <text>Chapter Four: The General Formula for Capital</text>
+        </navLabel>
+        <content src="OPS/ch04.htm#calibre_toc_30"/>
+        <navPoint id="719ffccd-3e1b-4d19-9653-4b55315d4a11" playOrder="31">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch04.htm#calibre_toc_31"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="8aad5104-02f1-4087-9c7b-391f69400221" playOrder="32">
+        <navLabel>
+          <text>Chapter Five: Contradictions in the General Formula of Capital</text>
+        </navLabel>
+        <content src="OPS/ch05.htm"/>
+        <navPoint id="c4a107ed-403e-4822-8ae7-effd2740967a" playOrder="33">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch05.htm#calibre_toc_33"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="f9f37a9a-ce64-4ce3-8e09-f75441da078a" playOrder="34">
+        <navLabel>
+          <text>Chapter Six: The Buying and Selling of Labour-Power</text>
+        </navLabel>
+        <content src="OPS/ch06.htm"/>
+        <navPoint id="ab981be8-dcec-46ca-8650-bf39dd9ab39c" playOrder="35">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch06.htm#calibre_toc_35"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="5c9e3001-3449-4a8e-a86f-62ee7dfb46c5" playOrder="36">
+      <navLabel>
+        <text>Part III: The Production of Absolute Surplus-Value</text>
+      </navLabel>
+      <content src="OPS/ch07.htm"/>
+      <navPoint id="16f40d0c-e81a-49cd-9fcc-d6def6aee6c6" playOrder="37">
+        <navLabel>
+          <text>Chapter Seven: The Labour-Process and the Process of Producing Surplus-Value</text>
+        </navLabel>
+        <content src="OPS/ch07.htm#calibre_toc_37"/>
+        <navPoint id="0ab7182f-2a42-4459-b197-dd3294e5d740" playOrder="38">
+          <navLabel>
+            <text>SECTION 1.THE LABOUR-PROCESS OR THE PRODUCTION OF USE-VALUES</text>
+          </navLabel>
+          <content src="OPS/ch07.htm#calibre_toc_38"/>
+        </navPoint>
+        <navPoint id="7bae1441-f6f1-45e7-9401-140dcc4dd987" playOrder="39">
+          <navLabel>
+            <text>SECTION 2. THE PRODUCTION OF SURPLUS-VALUE</text>
+          </navLabel>
+          <content src="OPS/ch07.htm#calibre_toc_39"/>
+        </navPoint>
+        <navPoint id="46a9a282-cde8-494f-a681-4c23c90c42b7" playOrder="40">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch07.htm#calibre_toc_40"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="90950fcd-8b2e-49a7-9737-9c3bb35e3785" playOrder="41">
+        <navLabel>
+          <text>Chapter Eight: Constant Capital and Variable Capital</text>
+        </navLabel>
+        <content src="OPS/ch08.htm"/>
+        <navPoint id="42077e25-c3a9-45f3-a147-8e9c220bd3fc" playOrder="42">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch08.htm#calibre_toc_42"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="7e976776-2794-4a2f-907b-c9ae8c7c2ddb" playOrder="43">
+        <navLabel>
+          <text>Chapter Nine: The Rate of Surplus-Value</text>
+        </navLabel>
+        <content src="OPS/ch09.htm"/>
+        <navPoint id="23b5f7e5-ca39-43c3-8e61-3d8662ca5e46" playOrder="44">
+          <navLabel>
+            <text>SECTION 1. THE DEGREE OF EXPLOITATION OF LABOUR-POWER</text>
+          </navLabel>
+          <content src="OPS/ch09.htm#calibre_toc_44"/>
+        </navPoint>
+        <navPoint id="7e26fc95-460a-4b3e-8dfb-9d9ff2d18123" playOrder="45">
+          <navLabel>
+            <text>SECTION 2. THE REPRESENTATION OF THE COMPONENTS OF THE VALUE OF THE PRODUCT BY CORRESPONDING PROPORTIONAL PARTS OF THE PRODUCT ITSELF</text>
+          </navLabel>
+          <content src="OPS/ch09.htm#calibre_toc_45"/>
+        </navPoint>
+        <navPoint id="19c8e9a0-2685-4098-b778-c91db31cc43b" playOrder="46">
+          <navLabel>
+            <text>SECTION 3. SENIOR’S “LAST HOUR”</text>
+          </navLabel>
+          <content src="OPS/ch09.htm#calibre_toc_46"/>
+        </navPoint>
+        <navPoint id="cd77fe95-4fe1-427f-a79d-0b6a9494be54" playOrder="47">
+          <navLabel>
+            <text>SECTION 4. SURPLUS-PRODUCE</text>
+          </navLabel>
+          <content src="OPS/ch09.htm#calibre_toc_47"/>
+        </navPoint>
+        <navPoint id="871b7374-43c3-4822-b19c-cd5bc6295496" playOrder="48">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch09.htm#calibre_toc_48"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="112f2d9d-fd07-461a-9f50-133d7b8f29ec" playOrder="49">
+        <navLabel>
+          <text>Chapter Ten: The Working-Day</text>
+        </navLabel>
+        <content src="OPS/ch10.htm"/>
+        <navPoint id="b259d849-1a79-41db-9536-d8bf9e84b486" playOrder="50">
+          <navLabel>
+            <text>SECTION 1 - THE LIMITS OF THE WORKING-DAY</text>
+          </navLabel>
+          <content src="OPS/ch10.htm#calibre_toc_50"/>
+        </navPoint>
+        <navPoint id="1c472792-31a9-4e87-bd6b-c39f9a515b11" playOrder="51">
+          <navLabel>
+            <text>SECTION 2 - THE GREED FOR SURPLUS-LABOUR. MANUFACTURER AND BOYARD</text>
+          </navLabel>
+          <content src="OPS/ch10.htm#calibre_toc_51"/>
+        </navPoint>
+        <navPoint id="520ef1b8-731f-4fc2-a0c6-a2090f2de670" playOrder="52">
+          <navLabel>
+            <text>SECTION 3 - BRANCHES OF ENGLISH INDUSTRY WITHOUT LEGAL LIMITS TO EXPLOITATION</text>
+          </navLabel>
+          <content src="OPS/ch10.htm#calibre_toc_52"/>
+        </navPoint>
+        <navPoint id="802ee16e-2ce5-4a64-b1d9-ca758ea6318b" playOrder="53">
+          <navLabel>
+            <text>SECTION 4 - DAY AND NIGHT WORK. THE RELAY SYSTEM.</text>
+          </navLabel>
+          <content src="OPS/ch10.htm#calibre_toc_53"/>
+        </navPoint>
+        <navPoint id="5d4c5603-0202-472c-a43a-015179d06b56" playOrder="54">
+          <navLabel>
+            <text>SECTION 5 - THE STRUGGLE FOR A NORMAL WORKING-DAY. COMPULSORY LAWS FOR THE EXTENSION OF THE WORKING-DAY FROM THE MIDDLE OF THE 14TH TO THE END OF THE 17TH CENTURY</text>
+          </navLabel>
+          <content src="OPS/ch10.htm#calibre_toc_54"/>
+        </navPoint>
+        <navPoint id="cf48be6a-7824-49cc-a22f-aaf0aab3a375" playOrder="55">
+          <navLabel>
+            <text>SECTION 6 - THE STRUGGLE FOR THE NORMAL WORKING-DAY. COMPULSORY LIMITATION BY LAW OF THE WORKING-TIME. THE ENGLISH FACTORY ACTS, 1833 TO 1864</text>
+          </navLabel>
+          <content src="OPS/ch10.htm#calibre_toc_55"/>
+        </navPoint>
+        <navPoint id="2bcbcaee-7fbd-4eda-ae30-51966f8f4aa9" playOrder="56">
+          <navLabel>
+            <text>SECTION 7 - THE STRUGGLE FOR THE NORMAL WORKING-DAY. RE-ACTION OF THE ENGLISH FACTORY ACTS ON OTHER COUNTRIES</text>
+          </navLabel>
+          <content src="OPS/ch10.htm#calibre_toc_56"/>
+        </navPoint>
+        <navPoint id="a76896a5-a56c-46f2-b8a1-d8bf222c01bf" playOrder="57">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch10.htm#calibre_toc_57"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="61d92c4b-7024-4050-bc52-6dfb68f3466b" playOrder="58">
+        <navLabel>
+          <text>Chapter Eleven: Rate and Mass of Surplus Value</text>
+        </navLabel>
+        <content src="OPS/ch11.htm"/>
+        <navPoint id="b707cb28-7ca5-4491-a6ff-409751eae2ea" playOrder="59">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch11.htm#calibre_toc_59"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="b875f832-5f00-4f96-9242-456fb91463ae" playOrder="60">
+      <navLabel>
+        <text>Part IV: Production of Relative Surplus Value</text>
+      </navLabel>
+      <content src="OPS/ch12.htm"/>
+      <navPoint id="196d351e-0baf-4c9a-b082-54cec9181aee" playOrder="61">
+        <navLabel>
+          <text>Chapter Twelve: The Concept of Relative Surplus Value</text>
+        </navLabel>
+        <content src="OPS/ch12.htm#calibre_toc_61"/>
+        <navPoint id="0fdff51d-f81a-4e04-af31-6d3aaa540208" playOrder="62">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch12.htm#calibre_toc_62"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="c8c9dd58-4990-47bd-9a6a-f4770af717f8" playOrder="63">
+        <navLabel>
+          <text>Chapter Thirteen: Co-operation</text>
+        </navLabel>
+        <content src="OPS/ch13.htm"/>
+        <navPoint id="adbb76e0-1923-4b68-9bc3-471d26402a31" playOrder="64">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch13.htm#calibre_toc_64"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="5a9efa16-286d-4f43-a551-30b8cdf7735b" playOrder="65">
+        <navLabel>
+          <text>Chapter Fourteen: Division of Labour and Manufacture</text>
+        </navLabel>
+        <content src="OPS/ch14.htm"/>
+        <navPoint id="e7266968-ded6-4d08-b86a-3038039cc4c1" playOrder="66">
+          <navLabel>
+            <text>SECTION 1 - TWO-FOLD ORIGIN OF MANUFACTURE</text>
+          </navLabel>
+          <content src="OPS/ch14.htm#calibre_toc_66"/>
+        </navPoint>
+        <navPoint id="eb40aa8f-eb15-4f4e-8e45-ea22b38d2326" playOrder="67">
+          <navLabel>
+            <text>SECTION 2 - THE DETAIL LABOURER AND HIS IMPLEMENTS</text>
+          </navLabel>
+          <content src="OPS/ch14.htm#calibre_toc_67"/>
+        </navPoint>
+        <navPoint id="5d459d6e-2fd9-4224-a470-a2a8a19c64b5" playOrder="68">
+          <navLabel>
+            <text>SECTION 3 - THE TWO FUNDAMENTAL FORMS OF MANUFACTURE: HETEROGENEOUS MANUFACTURE, SERIAL MANUFACTURE</text>
+          </navLabel>
+          <content src="OPS/ch14.htm#calibre_toc_68"/>
+        </navPoint>
+        <navPoint id="720fedf1-9338-47f8-8c8a-49f859e0cc41" playOrder="69">
+          <navLabel>
+            <text>SECTION 4 - DIVISION OF LABOUR IN MANUFACTURE, AND DIVISION OF LABOUR IN SOCIETY</text>
+          </navLabel>
+          <content src="OPS/ch14.htm#calibre_toc_69"/>
+        </navPoint>
+        <navPoint id="49acce24-fa4f-48d0-a022-3b16e2cd8b50" playOrder="70">
+          <navLabel>
+            <text>SECTION 5 - THE CAPITALISTIC CHARACTER OF MANUFACTURE</text>
+          </navLabel>
+          <content src="OPS/ch14.htm#calibre_toc_70"/>
+        </navPoint>
+        <navPoint id="3160a7cc-fbac-4c39-b8fe-551e48c22923" playOrder="71">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch14.htm#calibre_toc_71"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="d4b6500c-30cc-4f67-bdfd-5c9c70349f73" playOrder="72">
+        <navLabel>
+          <text>Chapter Fifteen: Machinery and Modern Industry</text>
+        </navLabel>
+        <content src="OPS/ch15_split_000.htm"/>
+        <navPoint id="aae7be77-7c56-41cf-b28d-468d94432952" playOrder="73">
+          <navLabel>
+            <text>SECTION 1 - THE DEVELOPMENT OF MACHINERY</text>
+          </navLabel>
+          <content src="OPS/ch15_split_000.htm#calibre_toc_73"/>
+        </navPoint>
+        <navPoint id="30432d57-0bc0-4f3e-a671-5e01f0bd9819" playOrder="74">
+          <navLabel>
+            <text>SECTION 2 - THE VALUE TRANSFERRED BY MACHINERY TO THE PRODUCT</text>
+          </navLabel>
+          <content src="OPS/ch15_split_000.htm#calibre_toc_74"/>
+        </navPoint>
+        <navPoint id="33231799-f5b7-4698-bbc5-b4f9947dd21f" playOrder="75">
+          <navLabel>
+            <text>SECTION 3 - THE PROXIMATE EFFECTS OF MACHINERY ON THE WORKMAN</text>
+          </navLabel>
+          <content src="OPS/ch15_split_000.htm#calibre_toc_75"/>
+        </navPoint>
+        <navPoint id="71dd871a-7e8a-4303-88a9-03fbbba4218e" playOrder="76">
+          <navLabel>
+            <text>SECTION 4 - THE FACTORY</text>
+          </navLabel>
+          <content src="OPS/ch15_split_000.htm#calibre_toc_76"/>
+        </navPoint>
+        <navPoint id="ba82caec-4503-405f-af3f-7fff9f36ecc3" playOrder="77">
+          <navLabel>
+            <text>SECTION 5 - THE STRIFE BETWEEN WORKMAN AND MACHINE</text>
+          </navLabel>
+          <content src="OPS/ch15_split_000.htm#calibre_toc_77"/>
+        </navPoint>
+        <navPoint id="fd70a91c-0ef0-472e-ae9d-842231a66a96" playOrder="78">
+          <navLabel>
+            <text>SECTION 6 - THE THEORY OF COMPENSATION AS REGARDS THE WORKPEOPLE DISPLACED BY MACHINERY</text>
+          </navLabel>
+          <content src="OPS/ch15_split_000.htm#calibre_toc_78"/>
+        </navPoint>
+        <navPoint id="4c6f6df6-730b-4907-96db-d7161b0e0fae" playOrder="79">
+          <navLabel>
+            <text>SECTION 7 - REPULSION AND ATTRACTION OF WORKPEOPLE BY THE FACTORY SYSTEM. CRISES IN THE COTTON TRADE</text>
+          </navLabel>
+          <content src="OPS/ch15_split_001.htm"/>
+        </navPoint>
+        <navPoint id="fb1c2590-f985-4d68-969c-b11c1547b3c1" playOrder="80">
+          <navLabel>
+            <text>SECTION 8 - REVOLUTION EFFECTED IN MANUFACTURE, HANDICRAFTS, AND DOMESTIC INDUSTRY BY MODERN INDUSTRY</text>
+          </navLabel>
+          <content src="OPS/ch15_split_001.htm#calibre_toc_80"/>
+        </navPoint>
+        <navPoint id="d4e4be46-5126-4a30-bf1c-c6f228cec8a3" playOrder="81">
+          <navLabel>
+            <text>SECTION 9 - THE FACTORY ACTS. SANITARY AND EDUCATIONAL CLAUSES OF THE SAME. THEIR GENERAL EXTENSION IN ENGLAND</text>
+          </navLabel>
+          <content src="OPS/ch15_split_002.htm#calibre_toc_81"/>
+        </navPoint>
+        <navPoint id="40ca5bdb-6fda-4a8e-b6cf-53744ac41567" playOrder="82">
+          <navLabel>
+            <text>SECTION 10 - MODERN INDUSTRY AND AGRICULTURE</text>
+          </navLabel>
+          <content src="OPS/ch15_split_002.htm#calibre_toc_82"/>
+        </navPoint>
+        <navPoint id="6c00f7dc-3f88-45c2-9844-370529509c8f" playOrder="83">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch15_split_002.htm#calibre_toc_83"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="5723546a-34e0-4aab-9c47-9b6ddecf7826" playOrder="84">
+        <navLabel>
+          <text>Chapter Sixteen: Absolute and Relative Surplus-Value</text>
+        </navLabel>
+        <content src="OPS/ch16.htm#calibre_toc_84"/>
+        <navPoint id="64a40906-7e9b-4736-b4b4-964e44676f86" playOrder="85">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch16.htm#calibre_toc_85"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="dea02141-818a-4435-b7ec-74d336d2a458" playOrder="86">
+        <navLabel>
+          <text>Chapter Seventeen: Changes of Magnitude in the Price of Labour-Power and in Surplus Value</text>
+        </navLabel>
+        <content src="OPS/ch17.htm"/>
+        <navPoint id="bf809d90-e5ac-49c2-a679-f0ace2512a40" playOrder="87">
+          <navLabel>
+            <text>SECTION 1 - LENGTH OF THE WORKING-DAY AND INTENSITY OF LABOUR CONSTANT. PRODUCTIVENESS OF LABOUR VARIABLE.</text>
+          </navLabel>
+          <content src="OPS/ch17.htm#calibre_toc_87"/>
+        </navPoint>
+        <navPoint id="7be1ff76-9161-4585-b5e9-32231473d544" playOrder="88">
+          <navLabel>
+            <text>SECTION 2 - WORKING-DAY CONSTANT. PRODUCTIVENESS OF LABOUR CONSTANT. INTENSITY OF LABOUR VARIABLE</text>
+          </navLabel>
+          <content src="OPS/ch17.htm#calibre_toc_88"/>
+        </navPoint>
+        <navPoint id="3e055709-699e-46b1-81f9-74ed7a75deef" playOrder="89">
+          <navLabel>
+            <text>SECTION 3 - PRODUCTIVENESS AND INTENSITY OF LABOUR CONSTANT. LENGTH OF THE WORKING-DAY VARIABLE</text>
+          </navLabel>
+          <content src="OPS/ch17.htm#calibre_toc_89"/>
+        </navPoint>
+        <navPoint id="2b21f0bc-d4f6-4cdf-a4e7-f0f5a53ce3fa" playOrder="90">
+          <navLabel>
+            <text>SECTION 4 - SIMULTANEOUS VARIATIONS IN THE DURATION, PRODUCTIVENESS, AND INTENSITY OF LABOUR</text>
+          </navLabel>
+          <content src="OPS/ch17.htm#calibre_toc_90"/>
+        </navPoint>
+        <navPoint id="c0453fa1-136e-4832-8e27-33a020f38d06" playOrder="91">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch17.htm#calibre_toc_91"/>
+        </navPoint>
+        <navPoint id="e68878a2-dd1c-4ecf-b93b-e50f86bb0526" playOrder="92">
+          <navLabel>
+            <text>Note</text>
+          </navLabel>
+          <content src="OPS/ch17.htm#calibre_toc_92"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="7efd9d9a-b385-431a-8751-dc7b64fa6210" playOrder="93">
+        <navLabel>
+          <text>Chapter Eighteen: Various Formula for the rate of Surplus-Value</text>
+        </navLabel>
+        <content src="OPS/ch18.htm"/>
+        <navPoint id="8f415dcc-4619-4410-9101-2526741ca4ff" playOrder="94">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch18.htm#calibre_toc_94"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="717d277e-cf2a-43d0-b498-ee65a742d1f3" playOrder="95">
+      <navLabel>
+        <text>Part VI: Wages</text>
+      </navLabel>
+      <content src="OPS/ch19.htm"/>
+      <navPoint id="0279b862-c31f-435b-9ad1-03049abc6c74" playOrder="96">
+        <navLabel>
+          <text>Chapter Nineteen: The Transformation of the Value (and Respective Price) of Labour-Power into Wages</text>
+        </navLabel>
+        <content src="OPS/ch19.htm#calibre_toc_96"/>
+        <navPoint id="d8b02eab-d806-46db-8600-4d25510389ba" playOrder="97">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch19.htm#calibre_toc_97"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="26766b66-5f83-462a-8dca-fe6e4af4cb6d" playOrder="98">
+        <navLabel>
+          <text>Chapter Twenty: Time-Wages</text>
+        </navLabel>
+        <content src="OPS/ch20.htm"/>
+        <navPoint id="8e6aea4b-3d96-4c7a-bb78-0c134fe66206" playOrder="99">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch20.htm#calibre_toc_99"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="25b609a2-c5b8-4c22-8e34-599562ab5441" playOrder="100">
+        <navLabel>
+          <text>Chapter Twenty-One: piece wages</text>
+        </navLabel>
+        <content src="OPS/ch21.htm"/>
+        <navPoint id="42bc2094-087b-4c26-9448-a6085110ee16" playOrder="101">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch21.htm#calibre_toc_101"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="1f9563ca-4ff6-42d8-b5b1-cbb7063f298e" playOrder="102">
+        <navLabel>
+          <text>Chapter Twenty-Two: National Differences of Wages</text>
+        </navLabel>
+        <content src="OPS/ch22.htm"/>
+        <navPoint id="9a5013be-cd86-40bb-a976-e4d4686c1492" playOrder="103">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch22.htm#calibre_toc_103"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="0076a316-1a78-45e8-ac6f-8a0ff7addcfb" playOrder="104">
+      <navLabel>
+        <text>Part VII: The Accumulation of Capital</text>
+      </navLabel>
+      <content src="OPS/ch23.htm"/>
+      <navPoint id="d09ae604-3ff4-4bd2-ba84-fbcbe043c66a" playOrder="105">
+        <navLabel>
+          <text>Chapter Twenty-Three: Simple Reproduction</text>
+        </navLabel>
+        <content src="OPS/ch23.htm#calibre_toc_105"/>
+        <navPoint id="8023dc8f-2683-43a5-8722-4cf58304d587" playOrder="106">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch23.htm#calibre_toc_106"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="17dc1d20-d9fb-4835-b3e2-b12e39665c04" playOrder="107">
+        <navLabel>
+          <text>Chapter Twenty-Four: Conversion of Surplus-Value into Capital</text>
+        </navLabel>
+        <content src="OPS/ch24.htm"/>
+        <navPoint id="7fad990a-6d95-407f-a8f0-c60d0a1e412a" playOrder="108">
+          <navLabel>
+            <text>SECTION 1. CAPITALIST PRODUCTION ON A PROGRESSIVELY INCREASING SCALE. TRANSITION OF THE LAWS OF PROPERTY THAT CHARACTERISE PRODUCTION OF COMMODITIES INTO LAWS OF CAPITALIST APPROPRIATION</text>
+          </navLabel>
+          <content src="OPS/ch24.htm#calibre_toc_108"/>
+        </navPoint>
+        <navPoint id="d27b3140-efc7-4f42-898c-50271999cef1" playOrder="109">
+          <navLabel>
+            <text>SECTION 2. ERRONEOUS CONCEPTION, BY POLITICAL ECONOMY, OF REPRODUCTION ON A PROGRESSIVELY INCREASING SCALE</text>
+          </navLabel>
+          <content src="OPS/ch24.htm#calibre_toc_109"/>
+        </navPoint>
+        <navPoint id="97f5310a-6405-44c7-9c42-18eaca4e69c9" playOrder="110">
+          <navLabel>
+            <text>SECTION 3. SEPARATION OF SURPLUS-VALUE INTO CAPITAL AND REVENUE. THE ABSTINENCE THEORY</text>
+          </navLabel>
+          <content src="OPS/ch24.htm#calibre_toc_110"/>
+        </navPoint>
+        <navPoint id="63dab1fe-8a93-48d0-bfb0-6fa417d1e339" playOrder="111">
+          <navLabel>
+            <text>SECTION 4. CIRCUMSTANCES THAT, INDEPENDENTLY OF THE PROPORTIONAL DIVISION OF SURPLUS-VALUE INTO CAPITAL AND REVENUE, DETERMINE THE AMOUNT OF ACCUMULATION. DEGREE OF EXPLOITATION OF LABOUR-POWER. PRODUCTIVITY OF LABOUR. GROWING DIFFERENCE IN AMOUNT BETWEEN CAPITAL EMPLOYED AND CAPITAL CONSUMED. MAGNITUDE OF CAPITAL ADVANCED</text>
+          </navLabel>
+          <content src="OPS/ch24.htm#calibre_toc_111"/>
+        </navPoint>
+        <navPoint id="8b2ae351-228e-41b3-843d-4bbe2b003d75" playOrder="112">
+          <navLabel>
+            <text>SECTION 5. THE SO-CALLED labour fund</text>
+          </navLabel>
+          <content src="OPS/ch24.htm#calibre_toc_112"/>
+        </navPoint>
+        <navPoint id="d864b8eb-d660-4c69-8d05-532c9a060d0a" playOrder="113">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch24.htm#calibre_toc_113"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="39596b80-1036-464d-8c30-eb420e1bf597" playOrder="114">
+        <navLabel>
+          <text>Chapter Twenty-Five: The General Law of Capitalist Accumulation</text>
+        </navLabel>
+        <content src="OPS/ch25_split_000.htm"/>
+        <navPoint id="fc30f9f1-46ba-4fc8-8731-382570cebb4c" playOrder="115">
+          <navLabel>
+            <text>Section 1. The Increased Demand for labour power that Accompanies Accumulation, the Composition of Capital Remaining the Same</text>
+          </navLabel>
+          <content src="OPS/ch25_split_000.htm#calibre_toc_115"/>
+        </navPoint>
+        <navPoint id="f3ea3a67-7d5e-4341-b15a-91a8270e9524" playOrder="116">
+          <navLabel>
+            <text>Section 2. Relative Diminution of the Variable Part of Capital Simultaneously with the Progress of Accumulation and of the Concentration that Accompanies it</text>
+          </navLabel>
+          <content src="OPS/ch25_split_000.htm#calibre_toc_116"/>
+        </navPoint>
+        <navPoint id="a4d698f3-3bc2-4593-afc3-7a4cda0a722f" playOrder="117">
+          <navLabel>
+            <text>Section 3. Progressive Production of a Relative surplus population or Industrial Reserve Army</text>
+          </navLabel>
+          <content src="OPS/ch25_split_000.htm#calibre_toc_117"/>
+        </navPoint>
+        <navPoint id="c802f332-949b-49c1-98f0-884ddf02c9ef" playOrder="118">
+          <navLabel>
+            <text>Section 4. Different Forms of the Relative surplus population. The General Law of Capitalistic Accumulation</text>
+          </navLabel>
+          <content src="OPS/ch25_split_000.htm#calibre_toc_118"/>
+        </navPoint>
+        <navPoint id="c15868d8-b465-4e2c-9b7f-5a15bc8f5b8d" playOrder="119">
+          <navLabel>
+            <text>Section 5. Illustrations of the General Law of Capitalist Accumulation</text>
+          </navLabel>
+          <content src="OPS/ch25_split_000.htm#calibre_toc_119"/>
+        </navPoint>
+        <navPoint id="d7569a08-b564-4fcc-af84-15c40edf1e9f" playOrder="120">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch25_split_001.htm#calibre_toc_120"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="dcbf1da9-3c5d-4448-accd-41fe75237c7a" playOrder="121">
+      <navLabel>
+        <text>Part VIII: Primitive Accumulation</text>
+      </navLabel>
+      <content src="OPS/ch26.htm"/>
+      <navPoint id="be5f3797-777c-4853-aa3b-32957e30c4ad" playOrder="122">
+        <navLabel>
+          <text>Chapter Twenty-Six: The Secret of Primitive Accumulation</text>
+        </navLabel>
+        <content src="OPS/ch26.htm#calibre_toc_122"/>
+        <navPoint id="7940d364-1e28-427b-94cd-f01b04f2ca2e" playOrder="123">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch26.htm#calibre_toc_123"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="f0be0e27-be4b-4627-a66e-5441a0583e1c" playOrder="124">
+        <navLabel>
+          <text>Chapter Twenty-Seven: Expropriation of the Agricultural Population from the Land</text>
+        </navLabel>
+        <content src="OPS/ch27.htm"/>
+        <navPoint id="53e9d49f-0ebb-469c-a1e4-3c2843f5ba5c" playOrder="125">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch27.htm#calibre_toc_125"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="3dacc7d0-204d-4783-9c18-4d15a3d40e38" playOrder="126">
+        <navLabel>
+          <text>Chapter Twenty-Eight: Bloody Legislation Against the Expropriated, from the End of the 15th Century. Forcing Down of Wages by Acts of Parliament</text>
+        </navLabel>
+        <content src="OPS/ch28.htm"/>
+        <navPoint id="cd3b751c-32b3-4774-b024-86a79301f2d5" playOrder="127">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch28.htm#calibre_toc_127"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="30453d0c-fbe3-4318-90b2-adb3210ad8db" playOrder="128">
+        <navLabel>
+          <text>Chapter Twenty-Nine: Genesis of the Capitalist Farmer</text>
+        </navLabel>
+        <content src="OPS/ch29.htm"/>
+        <navPoint id="c249dad4-f2aa-4e94-b119-8898fb873489" playOrder="129">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch29.htm#calibre_toc_129"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="1e08b8b0-7cff-4b9c-b4b2-2daf70ef0a11" playOrder="130">
+        <navLabel>
+          <text>Chapter Thirty: Reaction of the Agricultural Revolution on Industry. Creation of the Home-Market for Industrial Capital</text>
+        </navLabel>
+        <content src="OPS/ch30.htm"/>
+        <navPoint id="9c4ba320-a3be-4ad0-86a3-3ff3bf7c80c1" playOrder="131">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch30.htm#calibre_toc_131"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="c0fe0f5c-b4d4-4a4e-aca6-67e7668f4021" playOrder="132">
+        <navLabel>
+          <text>Chapter Thirty-One: Genesis of the Industrial Capitalist</text>
+        </navLabel>
+        <content src="OPS/ch31.htm"/>
+        <navPoint id="d8c299e4-d797-4dc1-860b-cf621bfff364" playOrder="133">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch31.htm#calibre_toc_133"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="e98c18d7-e3a4-43ce-acdf-a4574d53e6b7" playOrder="134">
+        <navLabel>
+          <text>Chapter Thirty-Two: Historical Tendency of Capitalist Accumulation</text>
+        </navLabel>
+        <content src="OPS/ch32.htm"/>
+        <navPoint id="1c0dbb28-327a-4d7f-9831-42ec556e349e" playOrder="135">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch32.htm#calibre_toc_135"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="9cc3f5b8-5d9a-4326-8766-c43966c9abc5" playOrder="136">
+        <navLabel>
+          <text>Chapter Thirty-Three: The Modern Theory of Colonisation [1]23&gt;</text>
+        </navLabel>
+        <content src="OPS/ch33.htm"/>
+        <navPoint id="a9eeb48f-2e56-4fab-9e35-5661f3c253bd" playOrder="137">
+          <navLabel>
+            <text>Footnotes</text>
+          </navLabel>
+          <content src="OPS/ch33.htm#calibre_toc_137"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="37528a7e-016f-4379-8ebe-eab967fc1bd4" playOrder="138">
+        <navLabel>
+          <text>The Commodity</text>
+        </navLabel>
+        <content src="OPS/commodity.htm#calibre_toc_138"/>
+        <navPoint id="8a1c1add-de99-482b-b4bd-79cf051d5bda" playOrder="140">
+          <navLabel>
+            <text>The Value-Formby Karl Marx</text>
+          </navLabel>
+          <content src="OPS/appendix.htm#calibre_toc_140"/>
+        </navPoint>
+        <navPoint id="4c9bd822-8292-4f86-b25b-c4d9fd69e54f" playOrder="141">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="OPS/appendix.htm#calibre_toc_141"/>
+        </navPoint>
+        <navPoint id="5bce1e93-9dfa-44f9-b453-df77dc8963e7" playOrder="142">
+          <navLabel>
+            <text>Notes for MIA edition</text>
+          </navLabel>
+          <content src="OPS/appendix.htm#calibre_toc_142"/>
+        </navPoint>
+        <navPoint id="f6298351-a9c4-4d55-893a-3e47e0345b67" playOrder="143">
+          <navLabel>
+            <text>Bibliography</text>
+          </navLabel>
+          <content src="OPS/appendix.htm#calibre_toc_143"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="0094d8ca-c820-4fa3-a724-f96634379e71" playOrder="139">
+      <navLabel>
+        <text>The Value-Form Appendix to the 1st German edition of Capital, Volume 1, 1867</text>
+      </navLabel>
+      <content src="OPS/appendix.htm#calibre_toc_139"/>
+      <navPoint id="775b1e11-fa90-4786-bb14-57c6e9c50abc" playOrder="144">
+        <navLabel>
+          <text>LETTER TO FREDERICK ENGELS</text>
+        </navLabel>
+        <content src="OPS/letter.htm#calibre_toc_144"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="3eb371a8-b343-4a73-ba8f-b9f785f7ffd4" playOrder="145">
+      <navLabel>
+        <text>Study Guide for Karl Marx’s Critique of Political Economy, a.k.a. “Capital”</text>
+      </navLabel>
+      <content src="OPS/sindex.htm"/>
+    </navPoint>
+    <navPoint id="db724dd5-af5f-4c52-9692-ed82243ac0e8" playOrder="146">
+      <navLabel>
+        <text>A three shilling mystery: An investigation into who allowed the bourgeoisie to expropriate an extra 3/-, who retrieved it and how it was snatched again</text>
+      </navLabel>
+      <content src="OPS/3smystery.htm#calibre_toc_146"/>
+    </navPoint>
+    <navPoint id="b99c5686-ca06-46f6-84ab-1626e4ba8244" playOrder="147">
+      <navLabel>
+        <text>Marxist Commentary of Karl Marx’s“Capital”</text>
+      </navLabel>
+      <content src="OPS/readings.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

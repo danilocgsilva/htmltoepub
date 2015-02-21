@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Progress Publishers (Moscow, 1965)</dc:publisher>
+    <meta name="calibre:title_sort" content="CAPITAL Vol. I"/>
+    <dc:language>pt</dc:language>
+    <dc:creator opf:file-as="Marx, Karl" opf:role="aut">Karl Marx</dc:creator>
+    <meta name="calibre:timestamp" content="2011-04-20T21:49:27+00:00"/>
+    <dc:title>CAPITAL Vol. I</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>1867-04-20T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.55) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a0be3268-8fb1-43b1-84b8-b1ed477feb4c</dc:identifier>
+    <dc:subject>Political Economy</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OPS/3smystery.htm" id="3smystery" media-type="application/xhtml+xml"/>
+    <item href="OPS/TableOfContents.html" id="TableOfContents" media-type="application/xhtml+xml"/>
+    <item href="OPS/appendix.htm" id="appendix" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch01.htm" id="ch01" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch02.htm" id="ch02" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch03.htm" id="ch03" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch04.htm" id="ch04" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch05.htm" id="ch05" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch06.htm" id="ch06" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch07.htm" id="ch07" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch08.htm" id="ch08" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch09.htm" id="ch09" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch10.htm" id="ch10" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch11.htm" id="ch11" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch12.htm" id="ch12" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch13.htm" id="ch13" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch14.htm" id="ch14" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch15_split_000.htm" id="ch153" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch15_split_001.htm" id="ch152" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch15_split_002.htm" id="ch151" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch16.htm" id="ch16" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch17.htm" id="ch17" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch18.htm" id="ch18" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch19.htm" id="ch19" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch20.htm" id="ch20" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch21.htm" id="ch21" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch22.htm" id="ch22" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch23.htm" id="ch23" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch24.htm" id="ch24" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch25_split_000.htm" id="ch252" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch25_split_001.htm" id="ch251" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch26.htm" id="ch26" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch27.htm" id="ch27" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch28.htm" id="ch28" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch29.htm" id="ch29" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch30.htm" id="ch30" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch31.htm" id="ch31" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch32.htm" id="ch32" media-type="application/xhtml+xml"/>
+    <item href="OPS/ch33.htm" id="ch33" media-type="application/xhtml+xml"/>
+    <item href="OPS/commodity.htm" id="commodity" media-type="application/xhtml+xml"/>
+    <item href="OPS/dedicate.htm" id="dedicate" media-type="application/xhtml+xml"/>
+    <item href="OPS/favicon.ico" id="favicon" media-type="image/ico"/>
+    <item href="OPS/index.htm" id="index" media-type="application/xhtml+xml"/>
+    <item href="OPS/kmstudy.jpg" id="kmstudy" media-type="image/jpeg"/>
+    <item href="OPS/letter.htm" id="letter" media-type="application/xhtml+xml"/>
+    <item href="OPS/p1.htm" id="p1" media-type="application/xhtml+xml"/>
+    <item href="OPS/p2.htm" id="p2" media-type="application/xhtml+xml"/>
+    <item href="OPS/p3.htm" id="p3" media-type="application/xhtml+xml"/>
+    <item href="OPS/p4.htm" id="p4" media-type="application/xhtml+xml"/>
+    <item href="OPS/p5.htm" id="p5" media-type="application/xhtml+xml"/>
+    <item href="OPS/p6.htm" id="p6" media-type="application/xhtml+xml"/>
+    <item href="OPS/p7.htm" id="p7" media-type="application/xhtml+xml"/>
+    <item href="OPS/pics/cover.gif" id="pics_cover" media-type="image/gif"/>
+    <item href="OPS/pics/letter.gif" id="pics_letter" media-type="image/gif"/>
+    <item href="OPS/readings.htm" id="readings" media-type="application/xhtml+xml"/>
+    <item href="OPS/sindex.htm" id="sindex" media-type="application/xhtml+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="TableOfContents"/>
+    <itemref idref="index"/>
+    <itemref idref="dedicate"/>
+    <itemref idref="p1"/>
+    <itemref idref="p2"/>
+    <itemref idref="p3"/>
+    <itemref idref="p4"/>
+    <itemref idref="p5"/>
+    <itemref idref="p6"/>
+    <itemref idref="p7"/>
+    <itemref idref="ch01"/>
+    <itemref idref="ch02"/>
+    <itemref idref="ch03"/>
+    <itemref idref="ch04"/>
+    <itemref idref="ch05"/>
+    <itemref idref="ch06"/>
+    <itemref idref="ch07"/>
+    <itemref idref="ch08"/>
+    <itemref idref="ch09"/>
+    <itemref idref="ch10"/>
+    <itemref idref="ch11"/>
+    <itemref idref="ch12"/>
+    <itemref idref="ch13"/>
+    <itemref idref="ch14"/>
+    <itemref idref="ch153"/>
+    <itemref idref="ch152"/>
+    <itemref idref="ch151"/>
+    <itemref idref="ch16"/>
+    <itemref idref="ch17"/>
+    <itemref idref="ch18"/>
+    <itemref idref="ch19"/>
+    <itemref idref="ch20"/>
+    <itemref idref="ch21"/>
+    <itemref idref="ch22"/>
+    <itemref idref="ch23"/>
+    <itemref idref="ch24"/>
+    <itemref idref="ch252"/>
+    <itemref idref="ch251"/>
+    <itemref idref="ch26"/>
+    <itemref idref="ch27"/>
+    <itemref idref="ch28"/>
+    <itemref idref="ch29"/>
+    <itemref idref="ch30"/>
+    <itemref idref="ch31"/>
+    <itemref idref="ch32"/>
+    <itemref idref="ch33"/>
+    <itemref idref="commodity"/>
+    <itemref idref="appendix"/>
+    <itemref idref="letter"/>
+    <itemref idref="sindex"/>
+    <itemref idref="3smystery"/>
+    <itemref idref="readings"/>
+  </spine>
+  <guide>
+    <reference href="OPS/TableOfContents.html" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
