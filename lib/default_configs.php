@@ -10,9 +10,11 @@ $encoding = "utf-8";
 
 $unique_identifier = "BookId";
 
+$publisher = "Danilo Silva";
+
 // metadata
 
-$title = "Testt14";
+$title = "Test1";
 //$title = "OnlyToTest";
 
 // language
@@ -21,4 +23,5 @@ $language = "pt_BR";
 
 // tmp path
 
-$tmp_path = "/tmp";
+$tmp_path = "/tmp/tmp10";
+

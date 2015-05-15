@@ -1,0 +1,14 @@
+
+	<manifest>
+		<item id="ncx" href="book.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="chapter1" href="epub.html" media-type="application/xhtml+xml" />
+	</manifest>
+
+	<spine toc="ncx">
+		<itemref idref="chapter1" />
+	</spine>
+
+	<guide>
+		<reference type="text" title="Chapter" href="epub.html" />
+	</guide>
+</package>
