@@ -4,6 +4,11 @@ require_once("functions/recursivecopy.php");
 require_once("functions/zip_folder.php");
 require_once("functions/remove_recursively.php");
 
+// Test if the temporary folder is writable
+if (!is_writable($tmp_path)) {
+    return;
+}
+
 recurse_copy('datatoclone', $tmp_path . "/" . $title);
 
 $book_id_file = $tmp_path . "/" . $title . "/OEBPS/book.opf";
@@ -17,7 +22,7 @@ file_put_contents($book_id_file, $book_opf_contents);
 
 zip_folder($tmp_path . "/" . $title, $tmp_path . "/" . $title);
 
-remove_recursively($book_opf_folder);
+remove_recursively($tmp_path . "/" . $title);
 
 /*
 header("Content-Description: File Transfer");
