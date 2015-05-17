@@ -6,6 +6,9 @@ require_once("functions/remove_recursively.php");
 
 // Test if the temporary folder is writable
 if (!is_writable($tmp_path)) {
+    $error_message = 'The temporary folder - ' . $tmp_path . ' - does not exists or it\'s not granted write permission';
+    error_log($error_message);
+    echo $error_message;
     return;
 }
 
