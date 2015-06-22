@@ -1,11 +1,4 @@
 <?php
-error_reporting(E_ALL | E_STRICT);
-ini_set('error_reporting', E_ALL | E_STRICT);
-ini_set('display_errors', 1);
-
-// Example.
-// Create a test book for download.
-// ePub uses XHTML 1.1, preferably strict.
 $content_start =
 "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
 . "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\"\n"
@@ -316,11 +309,6 @@ $book->rootLevel();
 // $book->buildTOC();
 
 $book->addChapter("Log", "Log.html", $content_start . $log->getLog() . "\n</pre>" . $bookEnd);
-
-if ($book->isLogging) { // Only used in case we need to debug EPub.php.
-    $epuplog = $book->getLog();
-    $book->addChapter("ePubLog", "ePubLog.html", $content_start . $epuplog . "\n</pre>" . $bookEnd);
-}
 
 $book->finalize(); // Finalize the book, and build the archive.
 
