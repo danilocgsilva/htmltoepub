@@ -8,18 +8,14 @@
   <body>
 
   <h1>HTML to epub</h1>
-
-  <form method="post">
-    <label for="uri_fetch">URI for fetch</label>
-    <input id="uri_fetch" type="text" />
-    <br />
-    <label for="css_rule">CSS rule for fetch</label>
-    <input id="css_rule" type="text" />
-    <br />
-    <input type="submit" value="Converter" />
-  </form>
   
-  <form method="post">
+  <form method="post" action="validate.php">
+	<label for="book_title">Book's title</label>
+	<input type="text" id="book_title" name="book_title" />
+	<br />
+	<label for="book_title">Book's title in chapter</label>
+	<input type="checkbox" id="book_title_in_chapter" name="book_title_in_chapter" />
+	<br />
 	<input type="submit" />
   </form>
       
