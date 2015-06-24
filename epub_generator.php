@@ -49,7 +49,7 @@ $cssData = "body {\n  margin-left: .5em;\n  margin-right: .5em;\n  text-align: j
 $book->addCSSFile("styles.css", "css1", $cssData);
 
 
-include_once('chapter_generator.php');
+include_once('chapter_seeker.php');
 
 
 $book->finalize(); // Finalize the book, and build the archive.
