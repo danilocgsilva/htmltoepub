@@ -1,6 +1,7 @@
 <?php
 error_reporting(E_ALL | E_STRICT);
 ini_set('error_reporting', E_ALL | E_STRICT);
+ini_set('display_errors', 1);
 
 $content_start =
 "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
@@ -23,7 +24,7 @@ include_once("lib/EPub.php");
 $book = new EPub(); // Default is EPub::BOOK_VERSION_EPUB2
 
 // Title and Identifier are mandatory!
-$book->setTitle($book_title);
+$book->setTitle($_POST['book_title']);
 $book->setIdentifier("http://JohnJaneDoePublications.com/books/TestBook.html", EPub::IDENTIFIER_URI); // Could also be the ISBN number, prefered for published books, or a UUID.
 $book->setLanguage("en"); // Not needed, but included for the example, Language is mandatory, but EPub defaults to "en". Use RFC3066 Language codes, such as "en", "da", "fr" etc.
 $book->setDescription("This is a brief description\nA test ePub book as an example of building a book in PHP");
@@ -53,6 +54,6 @@ include_once('chapter_seeker.php');
 
 $book->finalize(); // Finalize the book, and build the archive.
 
-$zipData = $book->sendBook($book_title);
+$zipData = $book->sendBook("ExampleBook1");
 
 ?>
