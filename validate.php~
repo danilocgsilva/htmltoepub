@@ -26,10 +26,10 @@ function validate($value_to_validate, $field_name) {
 
 $book_title = validate($_POST['book_title'], "book title");
 
-$validatet_values[] = $book_title;
+$validatet_values = ($book_title);
 
 if (in_array('', $validatet_values)) {
-  return;
+  echo "MUST EXIT";
 }
 
 include_once("epub_generator.php");

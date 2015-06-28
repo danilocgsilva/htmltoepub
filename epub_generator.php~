@@ -54,6 +54,6 @@ include_once('chapter_seeker.php');
 
 $book->finalize(); // Finalize the book, and build the archive.
 
-$zipData = $book->sendBook($book_title);
+$zipData = $book->sendBook("ExampleBook1");
 
 ?>
