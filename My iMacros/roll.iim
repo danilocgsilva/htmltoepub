@@ -1,0 +1,4 @@
+VERSION  BUILD=7500718 RECORDER=FX
+URL GOTO=https://www.facebook.com/
+WAIT SECONDS=5
+URL GOTO=javascript:window.scrollBy(0,20000)
