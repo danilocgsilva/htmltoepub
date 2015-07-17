@@ -1,4 +1,19 @@
-SET !EXTRACT_TEST_POPUP NO
-URL GOTO=%s
-TAG POS=1 TYPE=DIV ATTR=ID:%s EXTRACT=HTM
-SAVEAS TYPE=EXTRACT FOLDER=C:\Users\danil_000\Documents\iMacros\Downloads FILE=%s
+var macro = "";
+macro += "CODE:";
+macro += "SET !EXTRACT_TEST_POPUP NO" + "\n";
+macro += "URL GOTO=%s" + "\n";
+macro += "TAG POS=1 TYPE=DIV ATTR=ID:%s EXTRACT=HTM" + "\n";
+iimPlay(macro);
+var extText = iimGetLastExtract();
+
+xmlhttp = new XMLHttpRequest();
+/*
+xmlhttp.onreadystatechange = function() {
+	if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+		<função_escreve_no_html>(lembre-se do responseText e do innerHTML)
+	}
+}
+*/
+var uriWithGetValues = "http://localhost:81/htmltoepub/epub_from_imacros.php&send_content=" + extText;
+xmlhttp.open("GET", uriWithGetValues, true);
+xmlhttp.send();
