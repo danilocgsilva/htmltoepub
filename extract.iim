@@ -6,4 +6,5 @@ macro += "TAG POS=1 TYPE=DIV ATTR=ID:%s EXTRACT=HTM" + "\n";
 macro += "PROMPT {{!EXTRACT}}" + "\n";
 macro += "URL GOTO=http://localhost:81/htmltoepub/imacro_content_receiver.php" + "\n";
 macro += "TAG POS=1 TYPE=INPUT:TEXT FORM=ID:content_receiver ATTR=NAME:toReceive CONTENT={{!EXTRACT}}" + "\n";
+macro += "TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:content_receiver ATTR=NAME:toSubmit" + "\n";
 iimPlay(macro);

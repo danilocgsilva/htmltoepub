@@ -11,7 +11,7 @@
     
     <form id="content_receiver" action="write_folders_to_generate_epub.php" method="post">
       <input type="text" id="toReceive" name="toReceive" />
-      <input type="submit" value="Click to Send" />
+      <input type="submit" id="toSubmit" name="toSubmit" value="Click to Send" />
     </form>
       
   </body>
