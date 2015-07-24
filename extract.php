@@ -1,9 +1,17 @@
+<?php
+
+/*
+ * This page will create cascade widget, so it's needed to include the file funcion
+ */
+require_once("cascade_widget.php");
+
+?>
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset='utf-8'>
     <title>Extract</title>
-	  <style>
+    <style>
       .inputcontainer {
         position: relative;
         width: 100%;
@@ -13,18 +21,25 @@
         box-sizing: border-box;
       }
     </style>
-	
+    <script language="javascript" src="cascade_widget.js"></script>
   </head>
 
   <body>
   
 	<h1>Extract</h1>
 	
-	<form action="extract_core.php" method="get">
+    <form action="extract_core.php" method="get">
+    
+    <?php cascade_widget('Título aqui'); ?>
 
     <div class="inputcontainer">
-      <label for="id_value">Div ID</label><br />
-	  	<input name="id_value" id="id_value" type="text" value="texto" />
+        <label for="id_value">Div ID</label><br />
+        <input name="id_value" id="id_value" type="text" value="texto" />
+    </div>
+    
+    <div class="inputcontainer">
+        <label for="id_title_value">Title ID</label><br />
+        <input name="id_title_value" id="id_title_value" type="text" value="pg-color10" />
     </div>
 
     <div class="inputcontainer">
