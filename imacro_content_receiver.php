@@ -9,8 +9,8 @@
   
     <h1>IMacros content receiver</h1>
     
-    <form>
-      <input type="hidden" id="toReceive" />
+    <form id="content_receiver" action="write_folders_to_generate_epub.php" method="post">
+      <input type="text" id="toReceive" name="toReceive" />
       <input type="submit" value="Click to Send" />
     </form>
       

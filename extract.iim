@@ -4,4 +4,6 @@ macro += "SET !EXTRACT_TEST_POPUP NO" + "\n";
 macro += "URL GOTO=%s" + "\n";
 macro += "TAG POS=1 TYPE=DIV ATTR=ID:%s EXTRACT=HTM" + "\n";
 macro += "PROMPT {{!EXTRACT}}" + "\n";
+macro += "URL GOTO=http://localhost:81/htmltoepub/imacro_content_receiver.php" + "\n";
+macro += "TAG POS=1 TYPE=INPUT:TEXT FORM=ID:content_receiver ATTR=NAME:toReceive CONTENT={{!EXTRACT}}" + "\n";
 iimPlay(macro);
