@@ -26,11 +26,13 @@ require_once("cascade_widget.php");
 
   <body>
   
-	<h1>Extract</h1>
-	
+    <h1>Extract</h1>
+
     <form action="extract_core.php" method="get">
     
     <?php cascade_widget('Título aqui'); ?>
+    
+    <?php cascade_widget('Meu cascade para bosy'); ?>
 
     <div class="inputcontainer">
         <label for="id_value">Div ID</label><br />
@@ -55,11 +57,11 @@ require_once("cascade_widget.php");
 	<div class="inputcontainer">
       <label for="uri">Folder to save:</label>
 	  <br />
-      <input name="folder" id="folder" type="file"webkitdirectory directory multiple />
+      <input name="folder" id="folder" type="file" webkitdirectory directory multiple />
     </div>
 
     <div class="inputcontainer">
-  		<input type="submit" value="Submit" />
+        <input type="submit" value="Submit" />
     </div>
 
 	</form>
