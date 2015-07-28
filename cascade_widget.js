@@ -3,11 +3,6 @@
  */
 function createElementView(type, widgetID) {
     
-    /**
-     * Array to hold all ID elements holders
-     */
-    IDClassList = [];
-    
     if (type == 0) {
         type = "ID";
     } else if (type == 1) {
@@ -16,7 +11,7 @@ function createElementView(type, widgetID) {
     
     var element_view = document.getElementById(widgetID);
     var divContainerWidget = document.createElement("div");
-    divContainerWidget.setAttribute("class", IDClassList.length);
+    divContainerWidget.setAttribute("class", this.IDClassList.length);
     var nodeinfo = document.createTextNode(type);
     var inputText = document.createElement("input");
     var inputRemove = document.createElement("input");
@@ -29,7 +24,19 @@ function createElementView(type, widgetID) {
     divContainerWidget.appendChild(inputRemove);
     element_view.appendChild(divContainerWidget);
     
-    IDClassList.push(divContainerWidget);
+    this.IDClassList.push(divContainerWidget);
     
-    alert(IDClassList.length);
+    alert(this.IDClassList.length);
+}
+
+/**
+ * Array to hold all ID elements holders
+ */
+createElementView.prototype.IDClassList = [];
+
+/**
+ * Function to create element
+ */
+function createOBJ(type, WidgetID) {
+  window[WidgetID] = new createElementView(type, WidgetID);
 }

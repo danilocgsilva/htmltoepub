@@ -18,8 +18,8 @@ function cascade_widget($element) {
     print(
         "<div class=\"cascade_widget_container\">" .
             $element . "<br />" .
-            "<input type=\"button\" name=\"New ID\" value=\"New ID\" onclick=\"createElementView(0, '$machine_name_element')\" />" .
-            "<input type=\"button\" name=\"New Class\" value=\"New Class\" onclick=\"createElementView(1, '$machine_name_element')\" />" .
+            "<input type=\"button\" name=\"New ID\" value=\"New ID\" onclick=\"createOBJ(0, '$machine_name_element')\" />" .
+            "<input type=\"button\" name=\"New Class\" value=\"New Class\" onclick=\"createOBJ(1, '$machine_name_element')\" />" .
             "<div id=\"$machine_name_element\">" .
             "</div>" .
         "</div>"
