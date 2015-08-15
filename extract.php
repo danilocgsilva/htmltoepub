@@ -30,19 +30,10 @@ require_once("cascade_widget.php");
 
     <form action="extract_core.php" method="get">
     
-    <?php cascade_widget('Título aqui'); ?>
+    <?php cascade_widget('Title'); ?>
     
-    <?php cascade_widget('Meu cascade para bosy'); ?>
+    <?php cascade_widget('Main text'); ?>
 
-    <div class="inputcontainer">
-        <label for="id_value">Div ID</label><br />
-        <input name="id_value" id="id_value" type="text" value="texto" />
-    </div>
-    
-    <div class="inputcontainer">
-        <label for="id_title_value">Title ID</label><br />
-        <input name="id_title_value" id="id_title_value" type="text" value="pg-color10" />
-    </div>
 
     <div class="inputcontainer">
       <label for="file_name">File Name</label><br />
